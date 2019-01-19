@@ -9,4 +9,4 @@ Music.start(Bot, {
     helpCmd: "help"
   });
 
-Bot.login(process.env.BOT_TOKEN)
+Bot.login("NDY5MjEwMDI1MjAyNjc5ODM5.DyTITQ.9Yh1vUMoe9T8NIpxbRt2zaGDaSA")
